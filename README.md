@@ -46,3 +46,11 @@ Before using this repository, ensure you have the following installed:
 - Git (for version control)
 
 
+## Lessons
+
+Introduction to Python - Basics of Python programming.
+Using Functions - Understanding Python functions.
+Introduction to OOP Concepts - Core OOP principles.
+OOP Implementation - Practical OOP examples.
+Web Scraping - Using Python for web scraping.
+String Manipulation - Advanced string operations.
